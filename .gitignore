@@ -1,4 +1,4 @@
-.csv
-.h5
-.ipynb
+*.csv
+*.h5
+*.ipynb
 .DS_Store
