@@ -1,0 +1,4 @@
+*.csv
+*.h5
+*.ipynb
+.DS_Store
